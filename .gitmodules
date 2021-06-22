@@ -1,6 +1,3 @@
-[submodule "portfolio/themes/soho"]
-	path = portfolio/themes/soho
-	url = https://github.com/alexandrevicenzi/soho.git
 [submodule "Portfolio/themes/introduction"]
 	path = Portfolio/themes/introduction
 	url = https://github.com/victoriadrake/hugo-theme-introduction.git
