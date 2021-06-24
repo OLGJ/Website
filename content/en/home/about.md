@@ -1,17 +1,15 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "profile.png"
 weight: 8
 ---
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+I am **Olof**, a 25 year old from Gothenburg, Sweden.
 
-### Features
+### Short about me
 
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+* Bachelor thesis in Cognitive Science.
+* Extended curriculum with courses in rhetorics, statistics and mathematics.
+* Multilingual - I speak english and swedish fluently.
+* I'm familiar with writing code in Python, CSS, HTML, JS, PHP, Markdown.
+* In my spare time I enjoy sailing, video games, golf, running, squash, reading and cooking!
