@@ -6,7 +6,7 @@ weight: 8
 
 I am **Olof**, a 25 year old from Gothenburg, Sweden.
 
-### Short about me
+***Short about me***
 
 * Bachelor thesis in Cognitive Science.
 * Extended curriculum with courses in rhetorics, statistics and mathematics.
