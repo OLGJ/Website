@@ -10,6 +10,6 @@ I am **Olof**, a 25 year old from Gothenburg, Sweden.
 
 * Bachelor thesis in Cognitive Science.
 * Extended curriculum with courses in rhetorics, statistics and mathematics.
-* Multilingual - I speak english and swedish fluently.
+* Bilingual - I speak english and swedish fluently.
 * I'm familiar with writing code in Python, CSS, HTML, JS, PHP, Markdown.
 * In my spare time I enjoy sailing, video games, golf, running, squash, reading and cooking!

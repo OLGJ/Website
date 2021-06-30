@@ -7,32 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://olgj.org/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photography</title>
-      <link>http://olgj.org/projects/photography/</link>
+      <title>S-A Wallstreetbets</title>
+      <link>http://olgj.org/projects/s-a_vader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgj.org/projects/photography/</guid>
-      <description>Sometimes I take picturesThis project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+      <guid>http://olgj.org/projects/s-a_vader/</guid>
+      <description>Semantic analysis on wallstreetbets using VADER and Mixed-Effect model.This project was my bachelor thesis. It was an idea I developed by myself following the big fuzz around Reddit&amp;rsquo;s wallstreetbets and their opposition towards a short position regarding the stock GME. I conducted semantic analysis on the comments from the most discussed threads using VADER, for a period of 15 days. I also retrieved information about the traded volume of the mentioned stocks over the same period of time.</description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>http://olgj.org/projects/design/</link>
+      <title>Website</title>
+      <link>http://olgj.org/projects/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgj.org/projects/design/</guid>
-      <description>This theme was designed by Victoria Drake. Go on, explore! 💪
-If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>http://olgj.org/projects/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://olgj.org/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <guid>http://olgj.org/projects/website/</guid>
+      <description>This website was something I created with Hugo.
+I wanted to broaden my expertise and this seemed was a great way to produce something usefull as well as making me more aquainted with:
+ Github Static websites Markdown Servers and Domains  </description>
     </item>
     
   </channel>

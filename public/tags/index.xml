@@ -5,61 +5,6 @@
     <link>http://olgj.org/tags/</link>
     <description>Recent content in Tags on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 20:18:53 -0500</lastBuildDate><atom:link href="http://olgj.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>blog</title>
-      <link>http://olgj.org/tags/blog/</link>
-      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
-      
-      <guid>http://olgj.org/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>http://olgj.org/tags/code/</link>
-      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
-      
-      <guid>http://olgj.org/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ipsum</title>
-      <link>http://olgj.org/tags/ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>http://olgj.org/tags/ipsum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>words</title>
-      <link>http://olgj.org/tags/words/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>http://olgj.org/tags/words/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coffee</title>
-      <link>http://olgj.org/tags/coffee/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>http://olgj.org/tags/coffee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>images</title>
-      <link>http://olgj.org/tags/images/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>http://olgj.org/tags/images/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://olgj.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
