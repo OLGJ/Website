@@ -122,6 +122,8 @@ Introduction
             
             
             
+            
+            
             <a class="navbar-item" href="#about">About</a>
             
             
@@ -138,6 +140,8 @@ Introduction
             
 
             
+            
+            <a class="navbar-item" href="#contact">Contact</a>
             
             
 
@@ -168,6 +172,8 @@ Introduction
         
         
         
+        
+        
 
         
         <div class="section" id="about">
@@ -176,6 +182,10 @@ Introduction
                 
                 <div class="columns">
                     <div class="column is-one-third has-text-centered">
+                        
+                        
+                        <img class="img-responsive avatar" src="http://olgj.org/home/profil_hu3351baffa732418c3943cd9b9f695b49_899671_320x0_resize_q75_box.jpg" alt="profil.jpg">
+                        
                         
                     </div>
                     <div class="markdown column">
@@ -320,7 +330,7 @@ Introduction
 <h2 id="semantic-analysis-on-wallstreetbets-using-vader-and-mixed-effect-model" class="anchor-link"><a href="#semantic-analysis-on-wallstreetbets-using-vader-and-mixed-effect-model">Semantic analysis on wallstreetbets using VADER and Mixed-Effect model.</a></h2>
 <p>This project was my bachelor thesis. It was an idea I developed by myself following the big fuzz around Reddit&rsquo;s wallstreetbets and their opposition towards a short position regarding the stock GME. I conducted semantic analysis on the comments from the most discussed threads using VADER, for a period of 15 days. I also retrieved information about the traded volume of the mentioned stocks over the same period of time.</p>
 <p>Thereafter I analyzed the result using a Mixed-Effect model, which is a type of multiple linear regression model but which also takes into considerations differences between clusters.</p>
-<p>I was very pleased with how well this project went, and I dare to say that so was my examinators. If you want to read more about the code I used etc, please visit my github library <a href="https://github.com/OLGJ/S-A_Vader">S-A_Vader</a>.</p>
+<p>I am very pleased with how well this project went, and I dare to say that so was my examinators. If you want to read more about the code I used etc, please visit my github library <a href="https://github.com/OLGJ/S-A_Vader">S-A_Vader</a>.</p>
 
             </section>
             
@@ -386,6 +396,46 @@ Introduction
         
         
         
+        <div class="section" id="contact">
+            <div class="container has-text-centered">
+                <h2 class="title is-2">Contact</h2>
+                <div class="markdown">
+                    <p>If you&rsquo;d like to get in contact with me, feel free to send me an <strong>email</strong> and I&rsquo;ll get back to you as soon as possible.</p>
+
+                </div>
+                
+                <p>My current local time is <span id="time"></span>.</p>
+                
+                
+                <h3 class="subtitle is-3 has-text-centered top-pad">
+                    <a href="mailto:olof.josefsson@outlook.com">olof.josefsson@outlook.com</a>
+                </h3>
+                
+                <div class="social-icons">
+    
+    <a href="https://www.linkedin.com/in/olof-josefsson-391522121/" >
+        <i class="fab fab fa-linkedin-in"></i>
+    </a>
+    
+    <a href="mailto:olof.josefsson@outlook.com" >
+        <i class="fas fab fa-paper-plane"></i>
+    </a>
+    
+</div>
+
+            </div>
+            
+            <div class="container has-text-centered top-pad">
+    <a href="#top">
+        <i class="fa fa-arrow-up"></i>
+    </a>
+</div>
+
+        </div>
+        <div class="container">
+            <hr>
+        </div>
+        
         
         
 
@@ -418,7 +468,7 @@ Introduction
         
         <script>
             function update_localtime() {
-                const time = new Date().toLocaleTimeString('en-US', { timeZone: 'Etc\/GMT\u002b2', timeStyle: 'short' });
+                const time = new Date().toLocaleTimeString('en-US', { timeZone: 'CET', timeStyle: 'short' });
                 document.getElementById('time').innerHTML = time;
             }
             update_localtime();
