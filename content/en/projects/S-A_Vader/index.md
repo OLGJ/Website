@@ -14,4 +14,4 @@ This project was my bachelor thesis. It was an idea I developed by myself follow
 
 Thereafter I analyzed the result using a Mixed-Effect model, which is a type of multiple linear regression model but which also takes into considerations differences between clusters.
 
-I was very pleased with how well this project went, and I dare to say that so was my examinators. If you want to read more about the code I used etc, please visit my github library [S-A_Vader](https://github.com/OLGJ/S-A_Vader).
+I am very pleased with how well this project went, and I dare to say that so was my examinators. If you want to read more about the code I used etc, please visit my github library [S-A_Vader](https://github.com/OLGJ/S-A_Vader).
