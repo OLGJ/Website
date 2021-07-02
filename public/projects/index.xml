@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Introduction</title>
-    <link>http://olgj.org/projects/</link>
+    <link>https://olgj.org/projects/</link>
     <description>Recent content in Projects on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://olgj.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://olgj.org/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>S-A Wallstreetbets</title>
-      <link>http://olgj.org/projects/s-a_vader/</link>
+      <link>https://olgj.org/projects/s-a_vader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgj.org/projects/s-a_vader/</guid>
+      <guid>https://olgj.org/projects/s-a_vader/</guid>
       <description>Semantic analysis on wallstreetbets using VADER and Mixed-Effect model.This project was my bachelor thesis. It was an idea I developed by myself following the big fuzz around Reddit&amp;rsquo;s wallstreetbets and their opposition towards a short position regarding the stock GME. I conducted semantic analysis on the comments from the most discussed threads using VADER, for a period of 15 days. I also retrieved information about the traded volume of the mentioned stocks over the same period of time.</description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>http://olgj.org/projects/website/</link>
+      <link>https://olgj.org/projects/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgj.org/projects/website/</guid>
+      <guid>https://olgj.org/projects/website/</guid>
       <description>This website was something I created with Hugo.
 I wanted to broaden my expertise and this seemed was a great way to produce something usefull as well as making me more aquainted with:
  Github Static websites Markdown Servers and Domains  </description>
