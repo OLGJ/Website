@@ -10,5 +10,6 @@
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
+    crossorigin = "anonymous"
     #Access-Control-Allow-Methods = "GET"
     #Access-Control-Max-Age = "3600"
