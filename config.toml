@@ -94,7 +94,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Olof Josefsson"
         [languages.en.params]
             description  = "A portfolio website for Olof Josefsson."   # Max 160 characters show in search results
             footerText   = "Olof Josefsson. Enjoy your stay!"                      # Text to override default footer text (markdown allowed)
