@@ -4,7 +4,7 @@ image: "profil.jpg"
 weight: 8
 ---
 
-I am **Olof**, a 25 year old from Gothenburg, Sweden.
+I am **Olof**, a 25 year old student from Gothenburg, Sweden.
 
 ***Short about me***
 

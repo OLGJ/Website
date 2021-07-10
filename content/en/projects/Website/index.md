@@ -6,9 +6,9 @@ resources:
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
 ---
-This website was something I created with [Hugo](https://gohugo.io/).
+I created this website with [Hugo](https://gohugo.io/).
 
-I wanted to broaden my expertise and this seemed was a great way to produce something usefull as well as making me more aquainted with:
+I wanted to broaden my expertise and seemingly this was a great way to produce something usefull as well as making me more aquainted with:
 
 - Github
 
