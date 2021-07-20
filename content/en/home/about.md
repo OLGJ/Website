@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: "profil.jpg"
-weight: 8
+weight: 1
 ---
 
 I am **Olof**, a 25 year old student from Gothenburg, Sweden.
