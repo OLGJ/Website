@@ -12,4 +12,4 @@ I am **Olof**, a 25 year old student from Gothenburg, Sweden.
 * Extended curriculum with courses in rhetorics, statistics and mathematics.
 * Bilingual - I speak english and swedish fluently.
 * I'm familiar with writing code in Python, CSS, HTML, JS, PHP, Markdown.
-* In my spare time I enjoy sailing, video games, golf, running, squash, reading and cooking!
+* In my spare time I enjoy sailing, squash, reading and occupying myself with different projects involving programming!
