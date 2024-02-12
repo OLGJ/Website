@@ -4,4 +4,4 @@ headless: true
 image: "Panorama.JPG"
 ---
 
-I'm a MSc student in Statistics & Machine learning.
+Welcome!
