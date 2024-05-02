@@ -5,7 +5,9 @@ weight: 1
 ---
 
 
-I am **Olof**. I work as a consultant at EY within Digital & Emerging tech. I graduated from Linkopings University with a MSc in Statistics & Machine learning. My thesis was called *"Quantifying uncertainty in bus arrival time predictions"*. 
+I am **Olof**. Statistician & Data Scientist with experience working in large data environments at EY. Driven by challenges and the feeling of overcoming them. 
+Excited about technology, data, modelling and conveying complex stories in a simple manner.
+
 
 ***Short about me***
 
