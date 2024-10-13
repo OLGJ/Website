@@ -5,7 +5,7 @@ weight: 1
 ---
 
 
-I am **Olof**. Statistician & Data Scientist with experience working in large data environments at EY. Driven by challenges and the feeling of overcoming them. 
+I'm **Olof**. Statistician & Data Scientist with experience working in large data environments at EY. Driven by challenges and the feeling of overcoming them. 
 Excited about technology, data, modelling and conveying complex stories in a simple manner.
 
 
